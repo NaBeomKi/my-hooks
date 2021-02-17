@@ -6,13 +6,13 @@ Collection of sexy React Hooks ready to install with NPM
 - [x] useTabs
 - [x] useInput
 - [x] useClick
-- [ ] usePageLeave
+- [x] useHover
+- [x] useConfirm
+- [x] usePreventLeave
+- [x] useBeforeLeave
 - [ ] useFadeIn
 - [ ] useFullscreen
-- [ ] useHover
 - [ ] useNetwork
 - [ ] useNotification
 - [ ] useScroll
-- [ ] usePreventLeave
-- [ ] useConfirm
 - [ ] useAxios
