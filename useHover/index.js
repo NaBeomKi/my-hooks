@@ -1,2 +1,1 @@
-import React from "react";
-import useHover from "./useHover";
+export { useHover as default } from "./useHover";

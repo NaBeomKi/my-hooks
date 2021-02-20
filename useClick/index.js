@@ -1,2 +1,1 @@
-import React from "react";
-import { useClick } from "./useClick";
+export { useClick as default } from "./useClick";

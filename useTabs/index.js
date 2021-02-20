@@ -1,2 +1,1 @@
-import React from "react";
-import { useTabs } from "./useTabs";
+export { useTabs as default } from "./useTabs";

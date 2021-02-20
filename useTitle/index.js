@@ -1,2 +1,1 @@
-import React from "react";
-import { useTitle } from "./useTitle";
+export { useTitle as default } from "./useTitle";

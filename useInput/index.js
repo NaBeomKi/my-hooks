@@ -1,2 +1,1 @@
-import React from "react";
-import { useInput } from "./useInput";
+export { useInput as default } from "./useInput";
